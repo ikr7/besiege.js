@@ -1,0 +1,16 @@
+{
+  "name": "besiege.js",
+  "version": "0.0.1",
+  "description": "Besiege .bsg file manipulator",
+  "main": "index.js",
+  "author": "ikr7",
+  "license": "ISC",
+  "repository": {
+    "type": "git", 
+    "url": "git://github.com/ikr7/besiege.js"
+  },
+  "dependencies": {
+    "guid": "0.0.12",
+    "xmlbuilder": "4.2.1"
+  }
+}
